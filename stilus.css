@@ -1,0 +1,23 @@
+body {
+    background-color: green;
+    color: lightblue;
+    font-size: 12pt;
+}
+#scottishfold_id {
+    font-size: 18pt;
+    background-color: black;
+    color: orange;
+}
+#bengali_id {
+    font-size: 18pt;
+    background-color: orange;
+    color: black;
+}
+#savannah_id {
+    font-size: 18pt;
+    background-color: white;
+    color: gray;
+}
+.felsorolas_class {
+    color: red;
+}
